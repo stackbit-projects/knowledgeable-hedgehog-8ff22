@@ -23,7 +23,6 @@ sections:
     background_color: primary
     image: /images/cool-sparrow.jpg
   - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
