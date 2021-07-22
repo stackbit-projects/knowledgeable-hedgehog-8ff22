@@ -40,8 +40,7 @@ sections:
   - type: grid_section
     align: center
     grid_items:
-      - image: images/logo-1.svg
-        image_alt: Contentful logo
+      - image_alt: Contentful logo
         image_align: center
       - title_align: left
         content_align: left
