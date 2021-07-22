@@ -57,8 +57,7 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     features:
-      - subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
-        image: images/brandon-guidelines.png
+      - image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
