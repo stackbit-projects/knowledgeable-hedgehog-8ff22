@@ -21,7 +21,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    image: /images/cool-sparrow.jpg
   - type: grid_section
     align: center
     grid_items:
