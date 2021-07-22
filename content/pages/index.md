@@ -38,7 +38,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - type: grid_section
-    title: Image Grid
     subtitle: Grid Section Example
     align: center
     grid_items:
